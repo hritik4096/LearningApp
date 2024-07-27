@@ -1,0 +1,36 @@
+ .container{
+    max-width: 140rem;
+    padding:4.2rem 4.4rem;
+    display: flex;
+    justify-content: space-between;
+}
+
+ul{
+    display: flex;
+    gap:3rem;
+   
+
+}
+
+
+li{
+    list-style: none;
+}
+
+a{
+    text-decoration: inherit;
+}
+
+.logo-brand a{
+    font-weight: bold;
+    font-size: 2.5rem;
+    border-radius: 10px;
+   background-color: aqua;
+}
+
+.container{
+    max-width: 140rem;
+    padding:4rem 2.4rem;
+    margin: 0 auto;
+}
+ 
